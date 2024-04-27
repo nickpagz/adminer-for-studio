@@ -1,4 +1,4 @@
-This repo is contains Adminer plugin files for use with the WordPress.com Studio desktop app. It is intended to be used with an installation script which allows you to view the SQLite 3 database for your local Studio WordPress site using Adminer. The script is located in [this gist](https://gist.github.com/nickpagz/9f883ab36af94d7e382e9818e19e634e).
+This repo contains Adminer plugin files for use with the [WordPress.com Studio](https://developer.wordpress.com/studio/) desktop app. It is intended to be used with an installation script which allows you to view the SQLite 3 database for your local Studio WordPress site using Adminer. The script is located in [this gist](https://gist.github.com/nickpagz/9f883ab36af94d7e382e9818e19e634e).
 
 Part of the script includes adding an mu-plugin which creates a link in the Admin bar to open Adminer to view the site's database.
 
